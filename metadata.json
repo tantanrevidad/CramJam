@@ -1,0 +1,5 @@
+{
+  "name": "CramJam",
+  "description": "Upload PDF notes and generate interactive flashcards and quizzes tailored to your preferred format and difficulty.",
+  "requestFramePermissions": []
+}
